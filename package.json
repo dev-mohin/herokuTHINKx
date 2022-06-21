@@ -1,6 +1,9 @@
 {
   "name": "thinkx",
   "version": "0.0.0",
+  "engines": {
+    "node": "16.x"
+  },
   "license": "MIT",
   "files": [
     "dist/apps/thinkx",
